@@ -1,5 +1,5 @@
 # google-image-scraper
-## small scale image available only
+## Only available for small scale image now
 ## How to run? 
 ### If the seacrhing keywords are boy, girl
 python main.py -k boy,girl  
